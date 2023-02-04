@@ -1,2 +1,2 @@
 # Fake-Discord-Verification-Bot
-Fake Discord Verification Bot Educational Purposes Only
+Fake Discord QR Code Verification Bot Educational Purposes Only
