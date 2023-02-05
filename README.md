@@ -17,6 +17,7 @@ Check Out https://github.com/JustHarryTools
         🟢Can send a message to all the user's DMs + all user's Friend
         🟢Possibility to define a logs channel
         🟢Easy to use + Intuitive UI 
+        🟣NOT DETECTED BY WINDOWS DEFENDER AND SOME OTHER ANTI VIRUSES
 # To Do
 	💎Add EXE Version Builder
 
