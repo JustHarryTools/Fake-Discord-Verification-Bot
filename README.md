@@ -8,8 +8,8 @@ Check Out https://github.com/JustHarryTools
 ![image](https://cdn.discordapp.com/attachments/1071078038005100586/1071363248634462208/image.png)
 
 # Feautres
-	   🟢Mass DM
-	   🟢Async QR Code Management
+	    🟢Mass DM
+	    🟢Async QR Code Management
         🟢Using Websockets (no browser used)
         🟢Personal QR Code (visible only to the person passing the verification)
         🟢Saves the information in a json file
