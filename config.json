@@ -1,12 +1,12 @@
 {
-    "botToken": "BotToken",
-    "logs_channel_id": "ChannleID",
+    "botToken": "bot token here",
+    "logs_channel_id": "channle id here",
 
     "prefix": "*",
     "command_name": "verify",
     
     "give_role": true,
-    "role_name": "RoleName",
+    "role_name": "role name here",
 
     "mass_dm": 1,
     "message": "Scan QR Code To Verify"
